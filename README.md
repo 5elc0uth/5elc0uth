@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ `About Me`
 
-Hello there! 👋 I'm Adams Okwori, a Front End Developer passionate about crafting engaging user experiences through clean, efficient code. With expertise in HTML, CSS, JavaScript, and React, I specialize in creating responsive, dynamic interfaces that prioritize user experience. I value collaboration and innovation, always seeking to stay ahead of the curve in the fast-paced world of web development. Let's build something great together!
+Hello there! 👋 I'm Adams Okwori, a Front End Developer passionate about crafting engaging user experiences through clean, efficient code. With expertise in HTML, CSS, and JavaScript, I specialize in creating responsive, dynamic interfaces that prioritize user experience. I value collaboration and innovation, always seeking to stay ahead of the curve in the fast-paced world of web development. Let's build something great together!
 
 ### 💻 `Tech Stack` 
 #### 🎨 Designs & Wireframes
